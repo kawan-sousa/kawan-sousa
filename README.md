@@ -7,8 +7,8 @@
 <h1></h1>
 
 <div align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=kawan-sousa&show_icons=true&theme=tokyonight">
-  <img width="450em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan-sousa&layout=compact&langs_count=16&theme=tokyonight">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kawan-sousa&show_icons=true&theme=tokyonight">
+  <img width="400em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan-sousa&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 -------
