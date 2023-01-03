@@ -1,4 +1,4 @@
-# Eaeee dev, seja bem vindo(a) ao meu perfil 🤙
+# Oieee dev, seja bem vindo(a) ao meu perfil 🤙
 
 <div>
   <img radius="10em" width="100%" alt="banner theme atronomy" src="assets/perfile banner github.gif">
@@ -7,8 +7,8 @@
 <h1></h1>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kawan-sousa&show_icons=true&theme=tokyonight">
-  <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan-sousa&layout=compact&langs_count=16&theme=tokyonight">
+  <img width="490em" src="https://github-readme-stats.vercel.app/api?username=kawan-sousa&show_icons=true&theme=tokyonight">
+  <img width="490em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan-sousa&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 -------
@@ -24,13 +24,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: kawansousa.dev@gmail.com">
       <img width="30" src="assets/gmail-ico.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/kawan-sousa-alves-b13108251/">
       <img width="25" src="assets/linkedin-ico.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/kawansousa.dev/">
       <img width="25" src="assets/instagram-ico.png">
     </a>
 </div>
